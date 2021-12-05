@@ -2125,3 +2125,14 @@
 /My[[:space:]]project/Temp/UnityTempFile-f7e339b6cb47a424bbbdfcde2ff83b85 filter=lfs diff=lfs merge=lfs -text
 *.backup filter=lfs diff=lfs merge=lfs -text
 /My[[:space:]]project/Temp/workerlic filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Library/Artifacts/49/49d45afa1957ce5426fbde24dc833104 filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Library/Artifacts/78/78f1be59b84c5d37576686502b48bf16 filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Library/Artifacts/83/83fdf2c319c20028c74631c0a493ee32 filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Library/Artifacts/9f/9f2e0033a190891ba64610b38b63249a filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Library/Artifacts/e7/e73a4ba11eba9d5abb16c8ad76fd731a filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Library/Artifacts/eb/ebe2438d133d7f7b8e0414f2060031cd filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Temp/UnityTempFile-80df592081bae41a9ab95a8264feb997 filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Temp/UnityTempFile-9c02309a5ce9143d0bb77af65ac88cc0 filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Temp/UnityTempFile-be49058037a304332a8c40e7c64bd863 filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Temp/UnityTempFile-fc1f1ed0ec8224b6aa18b2da7a69c995 filter=lfs diff=lfs merge=lfs -text
+/My[[:space:]]project/Temp/UnityTempFile-fe744ed54ca914ae3adc92fd2a1af3b7 filter=lfs diff=lfs merge=lfs -text
